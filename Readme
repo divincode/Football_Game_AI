@@ -1,0 +1,11 @@
+Install Python
+
+and the following packages -
+  Math
+  PYgame
+  Random
+
+Run the main.py with the command python3 main.py
+
+Note - Please run the code in a windows machine as most of the ubuntu devices do not have Pre installed video driver for the dependency Pygame
+
